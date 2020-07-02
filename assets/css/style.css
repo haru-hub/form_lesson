@@ -316,17 +316,17 @@
   line-height: 16px;
 }
 
-.fotter {
+.footer {
   text-align: center;
 }
 
-.fotter p, .resend-mail {
+.footer p, .resend-mail {
   margin-bottom: 8px;
   line-height: 16px;
   font-size: 12px;
 }
 
-.fotter a:hover {
+.footer a:hover {
   box-sizing: border-box;
   border-bottom: 1px solid #ececec;
   border-bottom-color: #01bfbd;
